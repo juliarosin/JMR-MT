@@ -1,0 +1,23 @@
+.bulbimage{
+	width: 20%;
+	height: 20%;
+
+}
+p{
+	font-size: 300%;
+}
+
+.masthead{
+	background-color: #18bc9c;
+}
+section.success {
+    color: black;
+    background: white;
+}
+.about{
+	color: black;
+}
+.portifolio{
+	color: white;
+	
+}
